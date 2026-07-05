@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3h0096_001.yaml, hash: 'sha256:9040192ac424292b32baa11818714b3a38ed1486ea00eac53ca198d395b5b9e1'}
+  - {seq: 1, filename: KR3h0096_001.yaml, hash: 'sha256:872130c7176ae15eca46a5d36e1f58aadbc737125537bc7d700f922501681855'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0096_001.markers.yaml, hash: 'sha256:2d0653e5c59ad2a7ecd224680a845644f0c5d9df48d0dd4cf2ae17d1a5daa192'}
+  - {seq: 1, role: markers, filename: assets/KR3h0096_001.markers.yaml, hash: 'sha256:13125134b3400de39106bb620ae0d598ffe2aa9449db52f2bff93bccd596aefd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 梁元帝山水松石格一卷
   type: section
   level: 1
-hash: sha256:3bf1ecb8b0e1b22462573412f8db9cfd993b35559417bc549ce5bde0f79b39eb
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:514b44ad30cfcdd42b70d320350354bac8bc3eb9ccd49be48bfa1839604a520d

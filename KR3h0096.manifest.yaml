@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3h0096/v1
 canonical_location: https://kanripo.org/bkk/KR3h0096/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 梁元帝山水松石格一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3h0096_001.yaml, hash: 'sha256:872130c7176ae15eca46a5d36e1f58aadbc737125537bc7d700f922501681855'}
+  - {seq: 1, filename: KR3h0096_001.yaml, hash: 'sha256:9040192ac424292b32baa11818714b3a38ed1486ea00eac53ca198d395b5b9e1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0096_001.markers.yaml, hash: 'sha256:13125134b3400de39106bb620ae0d598ffe2aa9449db52f2bff93bccd596aefd'}
+  - {seq: 1, role: markers, filename: assets/KR3h0096_001.markers.yaml, hash: 'sha256:1c32dc751c7c788873ac6a424536000279c0b937b49bdf5d8478167204627379'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 梁元帝山水松石格一卷
   type: section
   level: 1
-hash: sha256:514b44ad30cfcdd42b70d320350354bac8bc3eb9ccd49be48bfa1839604a520d
+hash: sha256:f86e7b3e8295f8fd06a20f6c7a70a709ad57f0476d4e258d204de6a080e2dd0c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
